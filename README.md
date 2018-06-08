@@ -1,2 +1,2 @@
 # Chatroom
-## a single demo of charroom
+## a single demo of chartroom
